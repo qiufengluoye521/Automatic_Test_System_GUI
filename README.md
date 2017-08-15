@@ -1,0 +1,2 @@
+# Automatic_Test_System_GUI
+自动化测试系统使用stemwin
